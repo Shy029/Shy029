@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PYTHON.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me rupamshy2307@gmail.com
-- 😄 Pronouns: Shyamli
+- 😄 Pronouns: She
 - ⚡ Fun fact: nothing
 
 <!---
